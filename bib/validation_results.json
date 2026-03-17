@@ -1,0 +1,78 @@
+{
+  "mismatches": [
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/arxiv_2409_13393.bib",
+      "arxiv_id": "2409.13393",
+      "local_title": "Hey Robot! Personalizing Robot Navigation through Model Predictive Control with a Large Language Model",
+      "remote_title": "Hey Robot! Personalizing Robot Navigation through Model Predictive Control with a Large Language Model",
+      "local_author": "Martinez-Baselga, Diego and de Groot, Oscar and Knoedler, Luzia and Alonso-Mora, Javier and Riazuelo, Luis and Montano, Luis",
+      "remote_authors": [
+        "Diego Martinez-Baselga",
+        "Oscar de Groot",
+        "Luzia Knoedler",
+        "Javier Alonso-Mora",
+        "Luis Riazuelo",
+        "Luis Montano"
+      ],
+      "title_mismatch": false,
+      "author_mismatch": true
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/arxiv_2503_08306.bib",
+      "arxiv_id": "2503.08306",
+      "local_title": "Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach",
+      "remote_title": "Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach",
+      "local_author": "Janny, Steeven and Poirier, Hervé and Antsfeld, Leonid and Bono, Guillaume and Monaci, Gianluca and Chidlovskii, Boris and Giuliari, Francesco and Del Bue, Alessio and Wolf, Christian",
+      "remote_authors": [
+        "Steeven Janny",
+        "Hervé Poirier",
+        "Leonid Antsfeld",
+        "Guillaume Bono",
+        "Gianluca Monaci",
+        "Boris Chidlovskii",
+        "Francesco Giuliari",
+        "Alessio Del Bue",
+        "Christian Wolf"
+      ],
+      "title_mismatch": false,
+      "author_mismatch": true
+    }
+  ],
+  "errors": [
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/2023-spatialgpt-zero-shot-vision-and-language-navigation-via.bib",
+      "error": "Could not determine arxiv_id"
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/2025-hierarchical-semantic-augmented-navigation-optimal-tran.bib",
+      "error": "No eprint or url found"
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/2025-monovln-bridging-the-observation-gap-between-monocular.bib",
+      "error": "Could not determine arxiv_id"
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/2025-test-time-adaptation-for-online-vision-language-navigat.bib",
+      "error": "Could not determine arxiv_id"
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/doi_10_1109_tii_2019_2936167.bib",
+      "error": "Could not determine arxiv_id"
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/doi_10_3389_frobt_2025_1655171.bib",
+      "error": "No eprint or url found"
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/ieee_10777561.bib",
+      "error": "No eprint or url found"
+    },
+    {
+      "file": "/nvme-ssd2/wxc/VLN/xiangyun/VLN_survey/Awesome-Vision-Language-Navigation/bib/entries/ieee_8967929.bib",
+      "error": "Could not determine arxiv_id"
+    }
+  ],
+  "total_checked": 394,
+  "total_mismatches": 2,
+  "total_errors": 8
+}
