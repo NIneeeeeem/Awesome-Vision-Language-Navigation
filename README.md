@@ -38,15 +38,27 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2026-02-27 | [EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents](https://arxiv.org/abs/2603.00349) | - | - |
 | 2026-02-20 | [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](https://arxiv.org/abs/2602.18424) | - | [GitHub](https://github.com/makeabilitylab/CapNav) |
 | 2026-02-02 | [LangMap: A Hierarchical Benchmark for Open-Vocabulary Goal Navigation](https://arxiv.org/abs/2602.02220) | - | [GitHub](https://github.com/bo-miao/LangMap) |
+| 2026-01-04 | [SeqWalker: Sequential-horizon Vision-and-Language Navigation with Hierarchical Planning](https://arxiv.org/abs/2601.04699) | - | - |
+| 2026-01-03 | [AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions](https://arxiv.org/abs/2601.03707) | - | - |
+| 2025-12-23 | [VLNverse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation](https://arxiv.org/abs/2512.19021) | - | - |
 | 2025-12-22 | [IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments](https://arxiv.org/abs/2512.19024) | - | - |
+| 2025-12-22 | [VL-LN Bench: Towards Long-Horizon Goal-Oriented Navigation with Active Dialogs](https://arxiv.org/abs/2512.22342) | - | - |
+| 2025-12-09 | [UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories](https://arxiv.org/abs/2512.09607) | - | - |
+| 2025-10-08 | [NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions](https://arxiv.org/abs/2510.08173) | - | - |
+| 2025-09-15 | [Embodied Navigation Foundation Model](https://arxiv.org/abs/2509.12129) | - | - |
 | 2025-09-10 | [SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation](https://arxiv.org/abs/2509.08757) | CoRL2025 | [GitHub](https://github.com/michaelmunje/SocialNavSUB) |
 | 2025-08-01 | [UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents](https://arxiv.org/abs/2508.00288) | ACMMM2025 | [GitHub](https://github.com/Kyaren/UAV_ON) |
+| 2025-06-30 | [OctoNav: Towards Generalist Embodied Navigation](https://arxiv.org/abs/2506.09839) | - | - |
+| 2025-06-20 | [Sekai: A Video Dataset Towards World Exploration](https://arxiv.org/abs/2506.15675) | - | - |
 | 2025-05-24 | [SD-OVON: A Semantics-aware Dataset and Benchmark Generation Pipeline for Open-Vocabulary Object Navigation in Dynamic Scenes](https://arxiv.org/abs/2505.18881) | - | [GitHub](https://github.com/davidqiu1993/sd-ovon) |
+| 2025-05-15 | [UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning](https://arxiv.org/abs/2505.15725) | - | - |
 | 2025-04-20 | [A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents](https://arxiv.org/abs/2504.14650) | - | - |
 | 2025-04-03 | [Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision](https://arxiv.org/abs/2504.02477) | Information Fusion 2026 | [GitHub](https://github.com/Xiaofeng-Han-Res/MF-RV) |
 | 2025-03-18 | [HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions](https://arxiv.org/abs/2503.14229) | - | [GitHub](https://github.com/F1y1113/HA-VLN) |
+| 2025-02-18 | [OpenFly: A Comprehensive Platform for Aerial Vision-Language Navigation](https://arxiv.org/abs/2502.18041) | - | - |
 | 2024-12-17 | [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178) | - | [GitHub](https://github.com/shengyin1224/SafeAgentBench) |
 | 2024-12-12 | [Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method](https://arxiv.org/abs/2412.09082) | CVPR2025 | [GitHub](https://github.com/HCPLab-SYSU/LH-VLN) |
+| 2024-10-14 | [EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-World City Environment](https://arxiv.org/abs/2410.09604) | - | - |
 | 2024-10-09 | [Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology](https://arxiv.org/abs/2410.07087) | - | - |
 | 2024-09-22 | [HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation](https://arxiv.org/abs/2409.14296) | - | [GitHub](https://github.com/facebookresearch/habitat-matterport3d-dataset) |
 | 2024-06-20 | [CityNav: A Large-Scale Dataset for Real-World Aerial Navigation](https://arxiv.org/abs/2406.14240) | ICCV2025 | [GitHub](https://github.com/water-cookie/citynav-arxiv) |
@@ -54,8 +66,12 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2024-05-11 | [Memory-Maze: Scenario Driven Benchmark and Visual Language Navigation Model for Guiding Blind People](https://arxiv.org/abs/2405.07060) | - | - |
 | 2024-02-29 | [DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments](https://arxiv.org/abs/2402.19007) | RA-L2024 | - |
 | 2024-02-22 | [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304) | - | - |
+| 2024-01-23 | [Hazard Challenge: Embodied Decision Making in Dynamically Changing Environments](https://arxiv.org/abs/2401.12975) | - | - |
 | 2023-11-01 | [Advances in Embodied Navigation Using Large Language Models: A Survey](https://arxiv.org/abs/2311.00530) | - | - |
+| 2023-10-02 | [AerialVLN: Vision-and-Language Navigation for UAVs](https://arxiv.org/abs/2309.15944) | ICCV2023 | - |
 | 2023-06-20 | [Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation](https://arxiv.org/abs/2306.11290) | - | [GitHub](https://github.com/facebookresearch/habitat-lab) |
+| 2022-06-28 | [TEACH: Task-driven Embodied Agents that Chat](https://arxiv.org/abs/2110.00534) | AAAI2022 | - |
+| 2022-04-01 | [DialFRED: Dialogue-enabled Agents for Embodied Instruction Following](https://arxiv.org/abs/2204.05070) | RA-L2022 | - |
 | 2022-03-20 | [CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://arxiv.org/abs/2203.10421) | - | [GitHub](https://github.com/real-stanford/cow) |
 | 2022-02-04 | [A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility](https://arxiv.org/abs/2202.02312) | LNCS2022 | - |
 | 2021-11-18 | [Simple but Effective: CLIP Embeddings for Embodied AI](https://arxiv.org/abs/2111.09888) | CVPR2022 | [GitHub](https://github.com/allenai/embodied-clip) |
@@ -82,19 +98,25 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2020-10-15 | [Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding](https://arxiv.org/abs/2010.07954) | - | - |
 | 2020-07-14 | [Explore and Explain: Self-supervised Navigation and Recounting](https://arxiv.org/abs/2007.07268) | - | - |
 | 2020-07-01 | [Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation](https://arxiv.org/abs/2007.00229) | - | - |
+| 2020-06-05 | [Waymo Open Dataset: Scalability in Perception for Autonomous Driving](https://arxiv.org/abs/1912.04838) | CVPR2020 | - |
 | 2020-06-01 | [Translating Natural Language Instructions for Behavioral Robot Navigation with a Multi-Head Attention Mechanism](https://arxiv.org/abs/2006.00697) | - | - |
 | 2020-05-06 | [Diagnosing the Environment Bias in Vision-and-Language Navigation](https://arxiv.org/abs/2005.03086) | IJCAI2020 | [GitHub](https://github.com/zhangybzbo/EnvBiasVLN) |
+| 2020-04-30 | [ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks](https://arxiv.org/abs/1912.01734) | CVPR2020 | - |
 | 2020-04-30 | [Improving Vision-and-Language Navigation with Image-Text Pairs from the Web](https://arxiv.org/abs/2004.14973) | LNCS2020 | - |
 | 2020-04-06 | [Sub-Instruction Aware Vision-and-Language Navigation](https://arxiv.org/abs/2004.02707) | EMNLP2020 | [GitHub](https://github.com/YicongHong/Fine-Grained-R2R) |
 | 2019-12-06 | [VALAN: Vision and Language Agent Navigation](https://arxiv.org/abs/1912.03241) | - | - |
 | 2019-11-27 | [Multimodal Attention Networks for Low-Level Vision-and-Language Navigation](https://arxiv.org/abs/1911.12377) | CVIU2021 | [GitHub](https://github.com/aimagelab/perceive-transform-and-act) |
 | 2019-11-18 | [Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks](https://arxiv.org/abs/1911.07883) | - | - |
+| 2019-11-07 | [General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping](https://arxiv.org/abs/1907.05446) | - | - |
+| 2019-11-01 | [DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames](https://arxiv.org/abs/1911.00357) | - | - |
 | 2019-10-24 | [Cross-Lingual Vision-Language Navigation](https://arxiv.org/abs/1910.11301) | - | - |
 | 2019-08-09 | [Transferable Representation Learning in Vision-and-Language Navigation](https://arxiv.org/abs/1908.03409) | - | - |
+| 2019-07-19 | [On Evaluation of Embodied Navigation Agents](https://arxiv.org/abs/1807.06757) | - | - |
 | 2019-05-31 | [Multi-modal Discriminative Model for Vision-and-Language Navigation](https://arxiv.org/abs/1905.13358) | - | - |
 | 2019-05-29 | [Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation](https://arxiv.org/abs/1905.12255) | - | - |
 | 2019-04-02 | [Habitat: A Platform for Embodied AI Research](https://arxiv.org/abs/1904.01201) | ICCV2019 | [GitHub](https://github.com/facebookresearch/habitat-lab) |
 | 2019-01-10 | [Self-Monitoring Navigation Agent via Auxiliary Progress Estimation](https://arxiv.org/abs/1901.03035) | ICLR2019 | [GitHub](https://github.com/chihyaoma/selfmonitoring-agent) |
+| 2018-09-04 | [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://arxiv.org/abs/1809.00786) | - | - |
 | 2018-08-31 | [Gibson Env: Real-World Perception for Embodied Agents](https://arxiv.org/abs/1808.10654) | CVPR2018 | [GitHub](https://github.com/StanfordVL/GibsonEnv) |
 
 ## 🎯 Understanding the Decision
@@ -102,34 +124,53 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 
 | Date | Paper Title | Venue | Code |
 |------|-------------|-------|------|
+| 2026-03-10 | [Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2603.09740) | - | [GitHub](https://github.com/lhy-zjut/SACA) |
+| 2026-03-07 | [Span-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation](https://arxiv.org/abs/2603.09163) | - | - |
 | 2026-03-07 | [VLN-Cache: Enabling Token Caching for VLN Models with Visual/Semantic Dynamics Awareness](https://arxiv.org/abs/2603.07080) | - | - |
 | 2026-03-07 | [FreeFly-Thinking : Aligning Chain-of-Thought Reasoning with Continuous UAV Navigation](https://arxiv.org/abs/2603.07181) | - | - |
+| 2026-03-04 | [Prospect: Unified Streaming Vision-Language Navigation via Semantic-Spatial Fusion and Latent Predictive Representation](https://arxiv.org/abs/2603.03739) | - | - |
 | 2026-02-23 | [To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation](https://arxiv.org/abs/2602.20055) | - | - |
 | 2026-02-07 | [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](https://arxiv.org/abs/2602.07629) | - | - |
+| 2026-02-02 | [MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2602.05467) | - | - |
+| 2026-01-18 | [NaVIDA: Vision-Language Navigation with Inverse Dynamics Augmentation](https://arxiv.org/abs/2601.18188) | - | - |
+| 2026-01-01 | [ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/abs/2512.17435) | - | - |
 | 2025-12-31 | [VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents](https://arxiv.org/abs/2512.24851) | - | [GitHub](https://github.com/billzhao1030/VLN-MME) |
 | 2025-12-26 | [LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration](https://arxiv.org/abs/2512.22010) | - | - |
+| 2025-12-08 | [Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation](https://arxiv.org/abs/2512.08186) | - | - |
+| 2025-12-08 | [CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models](https://arxiv.org/abs/2508.13446) | - | - |
 | 2025-12-02 | [SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization](https://arxiv.org/abs/2512.02631) | - | - |
+| 2025-11-25 | [Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for VLN](https://arxiv.org/abs/2512.08186) | NeurIPS2025 | - |
 | 2025-11-21 | [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2511.17097) | - | - |
+| 2025-11-17 | [MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://arxiv.org/abs/2511.17889) | - | - |
+| 2025-11-10 | [Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation](https://arxiv.org/abs/2505.11886) | - | - |
 | 2025-10-23 | [VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation](https://arxiv.org/abs/2510.20818) | - | - |
+| 2025-10-10 | [CompassNav: Steering from Path Imitation to Decision Understanding in Navigation](https://arxiv.org/abs/2510.10154) | - | - |
 | 2025-09-24 | [Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting](https://arxiv.org/abs/2509.20499) | - | - |
 | 2025-09-17 | [FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733) | - | - |
 | 2025-09-13 | [Nav-R1: Reasoning and Navigation in Embodied Scenes](https://arxiv.org/abs/2509.10884) | - | [GitHub](https://github.com/AIGeeksGroup/Nav-R1) |
+| 2025-09-08 | [Mixture of Skill-based Vision-and-Language Navigation Agents](https://arxiv.org/abs/2508.07642) | - | - |
 | 2025-09-02 | [Plan Verification for LLM-Based Embodied Task Completion Agents](https://arxiv.org/abs/2509.02761) | - | - |
 | 2025-08-21 | [AeroDuo: Aerial Duo for UAV-based Vision and Language Navigation](https://arxiv.org/abs/2508.15232) | ACMMM2025 | - |
 | 2025-06-24 | [Learning Instruction-Following Policies through Open-Ended Instruction Relabeling with Large Language Models](https://arxiv.org/abs/2506.20061) | - | - |
+| 2025-06-05 | [EvolveNav: Self-Improving Embodied Reasoning for LLM-based Vision-Language Navigation](https://arxiv.org/abs/2506.01551) | - | - |
 | 2025-05-27 | [PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation](https://arxiv.org/abs/2505.21652) | - | - |
 | 2025-05-10 | [STRIVE: Structured Representation Integrating VLM Reasoning for Efficient Object Navigation](https://arxiv.org/abs/2505.06729) | - | - |
 | 2025-04-23 | [Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation](https://arxiv.org/abs/2504.16516) | - | - |
+| 2025-04-10 | [GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation](https://arxiv.org/abs/2504.09587) | - | - |
+| 2025-03-25 | [FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks](https://arxiv.org/abs/2503.13966) | - | - |
 | 2025-03-14 | [Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction](https://arxiv.org/abs/2503.11091) | - | - |
+| 2025-03-09 | [Affordances-Oriented Planning Using Foundation Models for Continuous Vision-Language Navigation](https://arxiv.org/abs/2409.13843) | AAAI2025 | - |
 | 2024-12-16 | [Embodied CoT Distillation From LLM To Off-the-shelf Agents](https://arxiv.org/abs/2412.11499) | ICML2024 | - |
 | 2024-12-02 | [Collaborative Instance Object Navigation: Leveraging Uncertainty-Awareness to Minimize Human-Agent Dialogues](https://arxiv.org/abs/2412.01250) | - | [GitHub](https://github.com/intelligolabs/CoIN) |
 | 2024-11-26 | [LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble](https://arxiv.org/abs/2411.17135) | Findings-EMNLP2024 | - |
+| 2024-11-26 | [TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-Shot Object Navigation](https://arxiv.org/abs/2411.16425) | - | - |
 | 2024-11-12 | [Zero-shot Object-Centric Instruction Following: Integrating Foundation Models with Traditional Navigation](https://arxiv.org/abs/2411.07848) | - | - |
 | 2024-11-08 | [End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering](https://arxiv.org/abs/2411.05755) | - | - |
 | 2024-11-07 | [MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation](https://arxiv.org/abs/2411.04796) | LNCS2025 | - |
 | 2024-10-18 | [Vision-Language Navigation with Energy-Based Policy](https://arxiv.org/abs/2410.14250) | - | - |
 | 2024-10-11 | [Exploring Spatial Representation to Enhance LLM Reasoning in Aerial Vision-Language Navigation](https://arxiv.org/abs/2410.08500) | - | - |
 | 2024-10-09 | [Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://arxiv.org/abs/2410.07166) | NeurIPS2024 | - |
+| 2024-10-09 | [OrionNav: Online Planning for Robot Autonomy with Context-Aware LLM and Open-Vocabulary Semantic Scene Graphs](https://arxiv.org/abs/2410.06239) | - | - |
 | 2024-08-09 | [Loc4Plan: Locating Before Planning for Outdoor Vision and Language Navigation](https://arxiv.org/abs/2408.05090) | - | - |
 | 2024-07-30 | [Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) | CoRL2024 | - |
 | 2024-07-17 | [NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models](https://arxiv.org/abs/2407.12366) | ECCV2024 | [GitHub](https://github.com/GengzeZhou/NavGPT-2) |
@@ -140,15 +181,24 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2024-03-22 | [Unifying Large Language Model and Deep Reinforcement Learning for Human-in-Loop Interactive Socially-aware Navigation](https://arxiv.org/abs/2403.15648) | - | - |
 | 2024-02-24 | [NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation](https://arxiv.org/abs/2402.15852) | RSS2024 | - |
 | 2024-02-05 | [VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation](https://arxiv.org/abs/2402.03561) | AAAI2024 | - |
+| 2024-01-10 | [Boosting Efficient Reinforcement Learning for Vision-and-Language Navigation with Open-Sourced LLM](https://arxiv.org/abs/2312.09917) | RA-L2024 | - |
 | 2023-12-14 | [Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences](https://arxiv.org/abs/2312.09337) | - | - |
+| 2023-11-10 | [Goat: Go to Any Thing](https://arxiv.org/abs/2311.06430) | - | - |
 | 2023-10-11 | [LangNav: Language as a Perceptual Representation for Navigation](https://arxiv.org/abs/2310.07889) | - | - |
+| 2023-10-03 | [NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration](https://arxiv.org/abs/2310.03821) | ICRA2024 | - |
 | 2023-08-09 | [Bird's-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/abs/2308.04758) | ICCV2023 | [GitHub](https://github.com/DefaultRui/BEV-Scene-Graph) |
+| 2023-06-26 | [ViNT: A Foundation Model for Visual Navigation](https://arxiv.org/abs/2306.14846) | - | - |
 | 2023-05-26 | [NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models](https://arxiv.org/abs/2305.16986) | AAAI2024 | [GitHub](https://github.com/GengzeZhou/NavGPT) |
+| 2023-05-03 | [SpatialGPT: Zero-Shot Vision-and-Language Navigation via Spatial CoT over Structured Spatial Memory](https://arxiv.org/abs/2411.13466) | ACM SIGSPATIAL2025 | - |
 | 2023-04-11 | [Improving Vision-and-Language Navigation by Generating Future-View Image Semantics](https://arxiv.org/abs/2304.04907) | - | - |
 | 2023-03-15 | [Lana: A Language-Capable Navigator for Instruction Following and Generation](https://arxiv.org/abs/2303.08409) | - | - |
 | 2022-10-30 | [Towards Versatile Embodied Navigation](https://arxiv.org/abs/2210.16822) | - | [GitHub](https://github.com/hanqingwangai/VXN) |
+| 2022-10-22 | [GNM: A General Navigation Model to Drive Any Robot](https://arxiv.org/abs/2210.03370) | - | - |
+| 2022-06-19 | [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in VLN](https://arxiv.org/abs/2206.07742) | CVPR2022 | - |
+| 2022-06-17 | [One Step at a Time: Long-Horizon Vision-and-Language Navigation with Milestones](https://arxiv.org/abs/2206.06628) | CVPR2022 | - |
 | 2022-03-22 | [HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation](https://arxiv.org/abs/2203.11591) | - | - |
 | 2021-12-08 | [Contrastive Instruction-Trajectory Learning for Vision-Language Navigation](https://arxiv.org/abs/2112.04138) | AAAI2022 | - |
+| 2021-05-07 | [SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation](https://arxiv.org/abs/2105.02987) | ICRA2021 | - |
 | 2021-04-21 | [Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation](https://arxiv.org/abs/2104.10674) | ICRA2021 | [GitHub](https://github.com/GT-RIPL/robo-vln) |
 | 2020-11-26 | [A Recurrent Vision-and-Language BERT for Navigation](https://arxiv.org/abs/2011.13922) | - | - |
 | 2020-11-14 | [Few-shot Object Grounding and Mapping for Natural Language Robot Instruction Following](https://arxiv.org/abs/2011.07384) | - | - |
@@ -159,6 +209,7 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2020-04-29 | [Improving Target-driven Visual Navigation with Attention on 3D Spatial Relationships](https://arxiv.org/abs/2005.02153) | Neural Processing Letters2022 | - |
 | 2020-03-01 | [Environment-agnostic Multitask Learning for Natural Language Grounded Navigation](https://arxiv.org/abs/2003.00443) | LNCS2020 | [GitHub](https://github.com/google-research/valan) |
 | 2019-11-18 | [Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation](https://arxiv.org/abs/1911.07450) | - | - |
+| 2019-04-14 | [The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation](https://arxiv.org/abs/1904.03661) | CVPR2019 | - |
 
 ## ⚠️ Understanding the Error
 *Error recovery, safety navigation, collision avoidance, and risk analysis*
@@ -168,28 +219,40 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2026-03-02 | [CHOP: Counterfactual Human Preference Labels Improve Obstacle Avoidance in Visuomotor Navigation Policies](https://arxiv.org/abs/2603.02004) | - | [GitHub](https://github.com/gershom96/CHOP) |
 | 2026-02-19 | [What Breaks Embodied AI Security:LLM Vulnerabilities, CPS Flaws,or Something Else?](https://arxiv.org/abs/2602.17345) | - | - |
 | 2026-02-11 | [Safe mobility support system using crowd mapping and avoidance route planning using VLM](https://arxiv.org/abs/2602.10910) | RCAR2025 | - |
+| 2026-02-06 | [Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation](https://arxiv.org/abs/2602.06356) | - | - |
 | 2026-02-05 | [VLN-Pilot: Large Vision-Language Model as an Autonomous Indoor Drone Operator](https://arxiv.org/abs/2602.05552) | - | - |
 | 2026-01-29 | [DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation](https://arxiv.org/abs/2601.21409) | - | - |
 | 2025-12-28 | [MUSON: A Reasoning-oriented Multimodal Dataset for Socially Compliant Navigation in Urban Environments](https://arxiv.org/abs/2512.22867) | - | - |
 | 2025-12-10 | [LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920) | - | - |
 | 2025-11-17 | [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](https://arxiv.org/abs/2511.13132) | - | - |
 | 2025-11-17 | [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](https://arxiv.org/abs/2511.13269) | - | [GitHub](https://github.com/linglingxiansen/SpatialSKy) |
+| 2025-11-06 | [Beyond Model Adaptation at Test Time: A Survey](https://arxiv.org/abs/2411.03687) | - | - |
 | 2025-10-06 | [Efficient Navigation in Unknown Indoor Environments with Vision-Language Models](https://arxiv.org/abs/2510.04991) | OWN@IROS2025 | - |
+| 2025-09-30 | [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://arxiv.org/abs/2509.24387) | - | - |
 | 2025-09-30 | [SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents](https://arxiv.org/abs/2509.25885) | - | - |
 | 2025-09-22 | [AD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback](https://arxiv.org/abs/2509.18384) | - | - |
+| 2025-09-08 | [Test-Time Adaptation for Online Vision-Language Navigation with Feedback-Based Reinforcement Learning](https://arxiv.org/abs/2506.06630) | ICML2025 | - |
+| 2025-08-25 | [I2EDL: Interactive Instruction Error Detection and Localization](https://arxiv.org/abs/2409.08543) | RO-MAN2024 | - |
 | 2025-08-15 | [OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](https://arxiv.org/abs/2508.11479) | - | [GitHub](https://github.com/CognitiveAISystems/OVSegDT) |
 | 2025-08-07 | [Safety of Embodied Navigation: A Survey](https://arxiv.org/abs/2508.05855) | - | - |
 | 2025-07-07 | [NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving](https://arxiv.org/abs/2507.05227) | ACMMM2025 | - |
 | 2025-06-20 | [VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](https://arxiv.org/abs/2506.16703) | IROS2025 | - |
+| 2025-06-06 | [Active Test-Time Vision-Language Navigation](https://arxiv.org/abs/2506.06630) | - | - |
+| 2025-04-10 | [MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations](https://arxiv.org/abs/2503.13744) | CVPR2025 | - |
 | 2025-02-23 | [Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications](https://arxiv.org/abs/2502.16402) | - | - |
 | 2025-01-27 | [Robust Mobile Robot Path Planning via LLM-Based Dynamic Waypoint Generation](https://arxiv.org/abs/2501.15901) | ESWA2025 | - |
+| 2025-01-04 | [Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments](https://arxiv.org/abs/2501.04947) | - | - |
+| 2025-01-01 | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/abs/2311.05232) | ACM TOIS 2025 | - |
+| 2024-11-04 | [RAVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models](https://arxiv.org/abs/2310.19873) | NeurIPS2024 | - |
 | 2024-05-27 | [Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-based Decision-Making Systems](https://arxiv.org/abs/2405.20774) | ICLR2025 | - |
 | 2024-03-15 | [Mind the Error! Detection and Localization of Instruction Errors in Vision-and-Language Navigation](https://arxiv.org/abs/2403.10700) | IROS2024 | - |
 | 2024-03-09 | [Towards Deviation-Robust Agent Navigation via Perturbation-Aware Contrastive Learning](https://arxiv.org/abs/2403.05770) | TPAMI2023 | - |
+| 2023-11-22 | [Fast-Slow Test-Time Adaptation for Online Vision-and-Language Navigation](https://arxiv.org/abs/2311.13209) | - | - |
 | 2023-11-06 | [Safe-VLN: Collision Avoidance for Vision-and-Language Navigation of Autonomous Robots Operating in Continuous Environments](https://arxiv.org/abs/2311.02817) | RA-L2024 | - |
 | 2023-06-20 | [HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation](https://arxiv.org/abs/2306.11377) | - | - |
 | 2022-11-27 | [Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning](https://arxiv.org/abs/2211.14769) | - | - |
 | 2022-06-12 | [Consistent Attack: Universal Adversarial Perturbation on Embodied Vision Navigation](https://arxiv.org/abs/2206.05751) | PRL2023 | - |
+| 2020-12-06 | [Error Bounds of Imitating Policies and Environments](https://arxiv.org/abs/2012.03603) | NeurIPS2020 | - |
 
 ## 🔮 Understanding the Future
 *World models, diffusion models, future prediction, and imagination-based navigation*
@@ -197,12 +260,15 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | Date | Paper Title | Venue | Code |
 |------|-------------|-------|------|
 | 2026-03-10 | [ImpedanceDiffusion: Diffusion-Based Global Path Planning for UAV Swarm Navigation with Generative Impedance Control](https://arxiv.org/abs/2603.09031) | - | - |
+| 2026-02-06 | [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](https://arxiv.org/abs/2602.05827) | - | - |
 | 2026-01-30 | [MapDream: Task-Driven Map Learning for Vision-Language Navigation](https://arxiv.org/abs/2602.00222) | - | - |
 | 2026-01-20 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2601.13976) | - | - |
 | 2025-12-26 | [Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space](https://arxiv.org/abs/2512.21887) | - | - |
+| 2025-12-23 | [AstranaV-World: World Model for Foresight Control and Consistency](https://arxiv.org/abs/2512.21714) | - | - |
 | 2025-12-02 | [SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots](https://arxiv.org/abs/2512.02851) | - | - |
 | 2025-12-01 | [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](https://arxiv.org/abs/2512.01550) | - | - |
 | 2025-11-24 | [UNeMo: Collaborative Visual-Language Reasoning and Navigation via a Multimodal World Model](https://arxiv.org/abs/2511.18845) | - | - |
+| 2025-11-01 | [DreamerNav: Learning-Based Autonomous Navigation in Dynamic Indoor Environments Using World Models](https://arxiv.org/abs/2505.16517) | Frontiers in Robotics and AI 2025 | - |
 | 2025-10-27 | [Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model](https://arxiv.org/abs/2510.23509) | - | - |
 | 2025-10-09 | [Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation](https://arxiv.org/abs/2510.08713) | - | [GitHub](https://github.com/F1y1113/UniWM) |
 | 2025-10-09 | [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](https://arxiv.org/abs/2510.08553) | - | [GitHub](https://github.com/xyz9911/Memoir) |
@@ -211,6 +277,7 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2025-08-09 | [Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation](https://arxiv.org/abs/2508.06990) | - | - |
 | 2025-08-04 | [MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming](https://arxiv.org/abs/2508.02549) | - | - |
 | 2025-06-30 | [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/abs/2506.23468) | ICCV2025 | [GitHub](https://github.com/Feliciaxyao/NavMorph) |
+| 2025-06-23 | [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02275) | NeurIPS2024 | - |
 | 2025-05-28 | [Anomalies by Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation](https://arxiv.org/abs/2505.22805) | ICRA2025 | - |
 | 2025-05-09 | [VISTA: Generative Visual Imagination for Vision-and-Language Navigation](https://arxiv.org/abs/2505.07868) | - | - |
 | 2025-03-13 | [PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation](https://arxiv.org/abs/2503.09938) | Neural Networks2025 | - |
@@ -221,6 +288,8 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2024-10-29 | [Diffusion as Reasoning: Enhancing Object Navigation via Diffusion Model Conditioned on LLM-based Object-Room Knowledge](https://arxiv.org/abs/2410.21842) | - | - |
 | 2023-08-14 | [DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation](https://arxiv.org/abs/2308.07498) | - | [GitHub](https://github.com/hanqingwangai/Dreamwalker) |
 | 2023-05-30 | [PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation](https://arxiv.org/abs/2305.19195) | - | - |
+| 2023-04-03 | [UniSim: A Neural Closed-Loop Sensor Simulator](https://arxiv.org/abs/2304.08463) | CVPR2023 | - |
+| 2023-01-10 | [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | - | - |
 | 2021-05-18 | [Pathdreamer: A World Model for Indoor Navigation](https://arxiv.org/abs/2105.08756) | ICCV2021 | [GitHub](https://github.com/google-research/pathdreamer) |
 | 2017-11-20 | [Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments](https://arxiv.org/abs/1711.07280) | CVPR2018 | - |
 
@@ -240,6 +309,7 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2025-11-10 | [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840) | AAAI2026 | - |
 | 2025-10-21 | [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546) | NeurIPS2025 | [GitHub](https://github.com/PKU-SEC-Lab/EfficientNav) |
 | 2025-10-16 | [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](https://arxiv.org/abs/2510.14357) | - | [GitHub](https://github.com/AlexTraveling/SUM-AgriVLN) |
+| 2025-10-01 | [MonoVLN: Bridging the Observation Gap between Monocular and Panoramic Vision and Language Navigation](https://arxiv.org/abs/2508.02549) | ICCV2025 | - |
 | 2025-09-30 | [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687) | - | - |
 | 2025-09-28 | [RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation](https://arxiv.org/abs/2509.23563) | - | - |
 | 2025-08-07 | [MAG-Nav: Language-Driven Object Navigation Leveraging Memory-Reserved Active Grounding](https://arxiv.org/abs/2508.05021) | - | - |
@@ -254,6 +324,7 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2025-03-11 | [Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach](https://arxiv.org/abs/2503.08306) | CVPR2025 | - |
 | 2025-01-29 | [General Scene Adaptation for Vision-and-Language Navigation](https://arxiv.org/abs/2501.17403) | ICLR2025 | - |
 | 2024-10-05 | [Semantic Environment Atlas for Object-Goal Navigation](https://arxiv.org/abs/2410.09081) | KBS2024 | - |
+| 2024-09-28 | [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) | - | - |
 | 2024-09-20 | [ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation](https://arxiv.org/abs/2409.13682) | - | - |
 | 2024-09-20 | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) | - | - |
 | 2024-09-04 | [Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2409.02522) | - | - |
@@ -267,6 +338,8 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2023-05-19 | [PASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-Language Navigation](https://arxiv.org/abs/2305.11918) | EAAI2024 | - |
 | 2023-03-02 | [ESceme: Vision-and-Language Navigation with Episodic Scene Memory](https://arxiv.org/abs/2303.01032) | IJCV2024 | [GitHub](https://github.com/qizhust/esceme) |
 | 2023-01-30 | [Emergence of Maps in the Memories of Blind Navigation Agents](https://arxiv.org/abs/2301.13261) | AI Matters 2023 | - |
+| 2022-12-08 | [BEVBERT: Multimodal Map Pre-training for Language-Guided Navigation](https://arxiv.org/abs/2212.04385) | - | - |
+| 2022-10-24 | [DOROTHIE: Spoken Dialogue for Handling Unexpected Situations in Interactive Autonomous Driving Agents](https://arxiv.org/abs/2210.12506) | EMNLP2022 Findings | - |
 | 2022-10-11 | [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://arxiv.org/abs/2210.05663) | - | - |
 | 2022-10-06 | [Iterative Vision-and-Language Navigation](https://arxiv.org/abs/2210.03087) | - | - |
 | 2022-06-23 | [1st Place Solutions for RxR-Habitat Vision-and-Language Navigation Competition (CVPR 2022)](https://arxiv.org/abs/2206.11610) | CVPR2022 | [GitHub](https://github.com/google-research-datasets/RxR) |
@@ -274,7 +347,10 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2021-11-10 | [Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation](https://arxiv.org/abs/2111.05759) | LNCS2022 | - |
 | 2021-10-25 | [History Aware Multimodal Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2110.13309) | - | - |
 | 2021-03-05 | [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454) | - | [GitHub](https://github.com/HanqingWangAI/SSM-VLN) |
+| 2021-01-01 | [Talk2Nav: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory](https://arxiv.org/abs/2011.13088) | IJCV2021 | - |
+| 2020-11-16 | [Conditional Driving from Natural Language Instructions](https://arxiv.org/abs/2011.06678) | CoRL2020 | - |
 | 2020-03-15 | [Vision-Dialog Navigation by Exploring Cross-modal Memory](https://arxiv.org/abs/2003.06745) | - | - |
+| 2019-10-07 | [Talk to the Vehicle: Language Conditioned Autonomous Navigation of Self Driving Cars](https://arxiv.org/abs/1909.11238) | IROS2019 | - |
 
 ## 🤖 Understanding the Reality
 *Sim-to-real transfer, real-world deployment, and physical robot navigation*
@@ -291,6 +367,7 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2026-01-19 | [AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation](https://arxiv.org/abs/2601.12742) | - | - |
 | 2026-01-07 | [CoINS: Counterfactual Interactive Navigation via Skill-Aware VLM](https://arxiv.org/abs/2601.03956) | - | - |
 | 2025-12-30 | [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212) | ICRA2026 | - |
+| 2025-12-24 | [LogoPlanner: Localization Grounded Navigation Policy with Metric-Aware Visual Geometry](https://arxiv.org/abs/2512.19629) | - | - |
 | 2025-12-14 | [D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation](https://arxiv.org/abs/2512.12622) | - | - |
 | 2025-12-13 | [Floorplan2Guide: LLM-Guided Floorplan Parsing for BLV Indoor Navigation](https://arxiv.org/abs/2512.12177) | IEEE BigData2025 | - |
 | 2025-12-08 | [VLD: Visual Language Goal Distance for Reinforcement Learning Navigation](https://arxiv.org/abs/2512.07976) | - | - |
@@ -320,6 +397,8 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2025-06-04 | [LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward](https://arxiv.org/abs/2506.04070) | AAAI2026 | - |
 | 2025-06-01 | [NavBench: Probing Multimodal Large Language Models for Embodied Navigation](https://arxiv.org/abs/2506.01031) | - | - |
 | 2025-05-27 | [FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation](https://arxiv.org/abs/2505.20783) | - | [GitHub](https://github.com/NTU-ICG/FM-Planner) |
+| 2025-05-14 | [NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/abs/2505.08712) | - | - |
+| 2025-05-09 | [NavRL: Learning Safe Flight in Dynamic Environments](https://arxiv.org/abs/2505.08712) | RA-L2025 | - |
 | 2025-03-12 | [Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments](https://arxiv.org/abs/2503.09820) | - | - |
 | 2025-03-12 | [LLM-Guided Indoor Navigation with Multimodal Map Understanding](https://arxiv.org/abs/2503.11702) | - | - |
 | 2025-03-04 | [LLM-Glasses: GenAI-driven Glasses with Haptic Feedback for Navigation of Visually Impaired People](https://arxiv.org/abs/2503.16475) | - | - |
@@ -349,6 +428,7 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2024-06-11 | [A3VLM: Actionable Articulation-Aware Vision Language Model](https://arxiv.org/abs/2406.07549) | - | [GitHub](https://github.com/changhaonan/A3VLM) |
 | 2024-06-07 | [InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment](https://arxiv.org/abs/2406.04882) | - | - |
 | 2024-05-27 | [Vision-and-Language Navigation Generative Pretrained Transformer](https://arxiv.org/abs/2405.16994) | - | - |
+| 2024-05-23 | [VIPlanner: Visual Semantic Imperative Learning for Local Navigation](https://arxiv.org/abs/2405.14329) | ICRA2024 | - |
 | 2024-05-16 | [SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks](https://arxiv.org/abs/2405.09822) | RSS2024 | - |
 | 2024-05-08 | [LOC-ZSON: Language-driven Object-Centric Zero-Shot Object Retrieval and Navigation](https://arxiv.org/abs/2405.05363) | ICRA2024 | - |
 | 2024-03-30 | [VLM-Social-Nav: Socially Aware Robot Navigation through Scoring using Vision-Language Models](https://arxiv.org/abs/2404.00210) | RA-L2024 | - |
@@ -359,8 +439,15 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2024-03-21 | [Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation](https://arxiv.org/abs/2403.14163) | Advanced Engineering Informatics 2025 | - |
 | 2024-03-15 | [Language to Map: Topological map generation from natural language path instructions](https://arxiv.org/abs/2403.10008) | ICRA2024 | - |
 | 2024-03-15 | [Advancing Object Goal Navigation Through LLM-enhanced Object Affinities Transfer](https://arxiv.org/abs/2403.09971) | - | - |
+| 2024-02-22 | [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434) | - | - |
 | 2023-12-25 | [WebVLN: Vision-and-Language Navigation on Websites](https://arxiv.org/abs/2312.15820) | AAAI2024 | [GitHub](https://github.com/WebVLN/WebVLN) |
 | 2023-12-06 | [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://arxiv.org/abs/2312.03275) | ICRA2024 | [GitHub](https://github.com/bdaiinstitute/vlfm) |
+| 2022-04-18 | [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://arxiv.org/abs/2204.08647) | - | - |
+| 2021-10-04 | [Learning High-Speed Flight in the Wild](https://arxiv.org/abs/2109.06933) | Science Robotics 2021 | - |
+| 2021-07-01 | [Learning a State Representation and Navigation in Cluttered and Dynamic Environments](https://arxiv.org/abs/2106.15857) | RA-L2021 | - |
+| 2020-08-23 | [Perceive, Predict, and Plan: Safe Motion Planning through Interpretable Semantic Representations](https://arxiv.org/abs/2008.08847) | ECCV2020 | - |
+| 2019-04-04 | [End-to-End Navigation Strategy with Deep Reinforcement Learning for Mobile Robots](https://arxiv.org/abs/1904.01917) | IEEE TII 2019 | - |
+| 2017-05-29 | [From Perception to Decision: A Data-Driven Approach to End-to-End Motion Planning for Autonomous Ground Robots](https://arxiv.org/abs/1705.09509) | ICRA2017 | - |
 | 2023-10-11 | [Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models](https://arxiv.org/abs/2310.07937) | - | [GitHub](https://github.com/GengzeZhou/NavGPT) |
 | 2023-09-19 | [Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill](https://arxiv.org/abs/2309.10309) | - | [GitHub](https://github.com/wzcai99/Pixel-Navigator) |
 | 2023-09-15 | [Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation](https://arxiv.org/abs/2309.08138) | - | [GitHub](https://github.com/whcpumpkin/Demand-driven-navigation) |
@@ -380,10 +467,10 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 
 | Category | Count |
 |----------|-------|
-| Foundation & Benchmark | 61 |
-| Understanding the Decision | 57 |
-| Understanding the Error | 25 |
-| Understanding the Future | 27 |
-| Understanding the History | 46 |
-| Understanding the Reality | 92 |
-| **Total** | **308** |
+| Foundation & Benchmark | 83 |
+| Understanding the Decision | 89 |
+| Understanding the Error | 38 |
+| Understanding the Future | 33 |
+| Understanding the History | 53 |
+| Understanding the Reality | 103 |
+| **Total** | **399** |
