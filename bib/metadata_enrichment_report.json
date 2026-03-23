@@ -1,0 +1,248 @@
+{
+  "venue_updates": [
+    {
+      "line_idx": 89,
+      "title": "HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation",
+      "venue": "IROS2024",
+      "source_comment": "Accepted to IROS 2024",
+      "source_journal_ref": ""
+    }
+  ],
+  "unresolved_venue_hints": [
+    {
+      "line_idx": 71,
+      "title": "SD-OVON: A Semantics-aware Dataset and Benchmark Generation Pipeline for Open-Vocabulary Object Navigation in Dynamic Scenes",
+      "comment": "Preprint. 21 pages",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 84,
+      "title": "Vision-Language Navigation with Embodied Intelligence: A Survey",
+      "comment": "The pictures in Figures 2, 4, and 5 are used without authorization, and the literatures in Table 1 have been cited improperly",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 156,
+      "title": "FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph",
+      "comment": "Demo video are available at https://horizonrobotics.github.io/robot_lab/fsr-vln/",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 250,
+      "title": "ImpedanceDiffusion: Diffusion-Based Global Path Planning for UAV Swarm Navigation with Generative Impedance Control",
+      "comment": "This is paper is under review",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 253,
+      "title": "ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination",
+      "comment": "17 pages, 10 figures. arXiv admin note: text overlap with arXiv:2410.09874",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 261,
+      "title": "Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation",
+      "comment": "18 pages, 11 figures, code: https://github.com/F1y1113/UniWM",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 277,
+      "title": "PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation",
+      "comment": "Project Webpage: https://pano-gen.github.io/",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 286,
+      "title": "HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System",
+      "comment": "9 pages, 7 figures",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 339,
+      "title": "GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation",
+      "comment": "6 pages, 2 figures",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 351,
+      "title": "CoINS: Counterfactual Interactive Navigation via Skill-Aware VLM",
+      "comment": "17 pages, 13 figures",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 356,
+      "title": "LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating",
+      "comment": "8 pages",
+      "journal_ref": ""
+    },
+    {
+      "line_idx": 385,
+      "title": "LLM-Guided Indoor Navigation with Multimodal Map Understanding",
+      "comment": "7 pages, 3 figures, 5 tables",
+      "journal_ref": ""
+    }
+  ],
+  "github_updates": [
+    {
+      "line_idx": 83,
+      "title": "DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments",
+      "repo_url": "https://github.com/JiMa25/DOZE-Dataset",
+      "repo_name": "JiMa25/DOZE-Dataset",
+      "score": 36,
+      "reasons": [
+        "contains arxiv id",
+        "contains full title",
+        "keyword overlap 7",
+        "name matches doze"
+      ]
+    },
+    {
+      "line_idx": 105,
+      "title": "ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments",
+      "repo_url": "https://github.com/hyounghk/ ArraMon",
+      "repo_name": "hyounghk/ ArraMon",
+      "score": 12,
+      "reasons": [
+        "keyword overlap 7",
+        "name matches arramon"
+      ]
+    },
+    {
+      "line_idx": 106,
+      "title": "Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding",
+      "repo_url": "https://github.com/google-research-datasets/RxR",
+      "repo_name": "google-research-datasets/RxR",
+      "score": 20,
+      "reasons": [
+        "contains arxiv id",
+        "keyword overlap 6"
+      ]
+    },
+    {
+      "line_idx": 131,
+      "title": "DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation",
+      "repo_url": "https://github.com/Allenxinn/DecoVLN",
+      "repo_name": "Allenxinn/DecoVLN",
+      "score": 39,
+      "reasons": [
+        "contains arxiv id",
+        "contains full title",
+        "keyword overlap 6",
+        "official/code phrase",
+        "name matches decovln"
+      ]
+    },
+    {
+      "line_idx": 277,
+      "title": "PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation",
+      "repo_url": "https://github.com/jialuli-luka/PanoGen",
+      "repo_name": "jialuli-luka/PanoGen",
+      "score": 100,
+      "reasons": [
+        "arxiv comment/project page"
+      ]
+    }
+  ],
+  "github_candidates": [
+    {
+      "line_idx": 54,
+      "title": "FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation",
+      "repo_url": "https://github.com/MIV-XJTU/Janus VLN",
+      "repo_name": "MIV-XJTU/Janus VLN",
+      "score": 7,
+      "reasons": [
+        "official/code phrase",
+        "name matches vln"
+      ]
+    },
+    {
+      "line_idx": 55,
+      "title": "SignNav: Leveraging Signage for Semantic Visual Navigation in Large-Scale Indoor Environments",
+      "repo_url": "https://github.com/Rahbir1518/ SignNavigator",
+      "repo_name": "Rahbir1518/ SignNavigator",
+      "score": 4,
+      "reasons": [
+        "name matches signnav"
+      ]
+    },
+    {
+      "line_idx": 82,
+      "title": "Memory-Maze: Scenario Driven Visual Language Navigation Benchmark for Guiding Blind People",
+      "repo_url": "https://github.com/jurgisp/ memory-maze",
+      "repo_name": "jurgisp/ memory-maze",
+      "score": 4,
+      "reasons": [
+        "name matches memory-maze"
+      ]
+    },
+    {
+      "line_idx": 83,
+      "title": "DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments",
+      "repo_url": "https://github.com/JiMa25/DOZE-Dataset",
+      "repo_name": "JiMa25/DOZE-Dataset",
+      "score": 36,
+      "reasons": [
+        "contains arxiv id",
+        "contains full title",
+        "keyword overlap 7",
+        "name matches doze"
+      ]
+    },
+    {
+      "line_idx": 84,
+      "title": "Vision-Language Navigation with Embodied Intelligence: A Survey",
+      "repo_url": "https://github.com/lhy-zjut/ Embodied - Intelligence",
+      "repo_name": "lhy-zjut/ Embodied - Intelligence",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "line_idx": 105,
+      "title": "ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments",
+      "repo_url": "https://github.com/hyounghk/ ArraMon",
+      "repo_name": "hyounghk/ ArraMon",
+      "score": 12,
+      "reasons": [
+        "keyword overlap 7",
+        "name matches arramon"
+      ]
+    },
+    {
+      "line_idx": 106,
+      "title": "Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding",
+      "repo_url": "https://github.com/google-research-datasets/RxR",
+      "repo_name": "google-research-datasets/RxR",
+      "score": 20,
+      "reasons": [
+        "contains arxiv id",
+        "keyword overlap 6"
+      ]
+    },
+    {
+      "line_idx": 131,
+      "title": "DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation",
+      "repo_url": "https://github.com/Allenxinn/DecoVLN",
+      "repo_name": "Allenxinn/DecoVLN",
+      "score": 39,
+      "reasons": [
+        "contains arxiv id",
+        "contains full title",
+        "keyword overlap 6",
+        "official/code phrase",
+        "name matches decovln"
+      ]
+    },
+    {
+      "line_idx": 133,
+      "title": "VLN-Cache: Enabling Token Caching for VLN Models with Visual/Semantic Dynamics Awareness",
+      "repo_url": "https://github.com/MIV-XJTU/Janus VLN",
+      "repo_name": "MIV-XJTU/Janus VLN",
+      "score": 7,
+      "reasons": [
+        "official/code phrase",
+        "name matches vln"
+      ]
+    }
+  ],
+  "github_queried": 60
+}
