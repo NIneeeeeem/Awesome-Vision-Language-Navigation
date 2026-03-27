@@ -20,6 +20,8 @@ A curated list of **Vision-Language Navigation (VLN)** research papers focusing 
 
 **[2026/03/20]** Add Safety & Social Navigation Subtopic.
 
+**[2026/03/27]** Add recent-week VLN papers (2026-03-21 to 2026-03-27).
+
 ## 🌟 Overview
 - [📖 News](#-news)
 - [🌟 Overview](#-overview)
@@ -134,6 +136,8 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 
 | Date | Paper Title | Venue | Resources |
 |------|-------------|-------|-----------|
+| 2026-03-22 | [SpatialFly: Geometry-Guided Representation Alignment for UAV Vision-and-Language Navigation in Urban Environments](https://arxiv.org/abs/2603.21046) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_21046.bib) |
+| 2026-03-22 | [DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation](https://arxiv.org/abs/2603.21269) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_21269.bib) |
 | 2026-03-18 | [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670) | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/Allenxinn/AgentVLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17670.bib) |
 | 2026-03-16 | [NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation](https://arxiv.org/abs/2603.15359) | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/hutslib/NavThinker) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_15359.bib) |
 | 2026-03-13 | [DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation](https://arxiv.org/abs/2603.13133) | CVPR2026 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/Allenxinn/DecoVLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_13133.bib) |
@@ -190,7 +194,6 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2024-07-10 | [Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs](https://arxiv.org/abs/2407.07775) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2407_07775.bib) |
 | 2024-05-27 | [Vision-and-Language Navigation Generative Pretrained Transformer](https://arxiv.org/abs/2405.16994) | AIHCIR2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2405_16994.bib) |
 | 2024-04-12 | [TDANet: Target-Directed Attention Network For Object-Goal Visual Navigation With Zero-Shot Ability](https://arxiv.org/abs/2404.08353) | RA-L2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2404_08353.bib) |
-| 2024-03-27 | [3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation](https://arxiv.org/abs/2403.18778) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_18778.bib) |
 | 2024-03-22 | [Unifying Large Language Model and Deep Reinforcement Learning for Human-in-Loop Interactive Socially-aware Navigation](https://arxiv.org/abs/2403.15648) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_15648.bib) |
 | 2024-02-24 | [NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation](https://arxiv.org/abs/2402.15852) | RSS2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2402_15852.bib) |
 | 2024-02-05 | [VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation](https://arxiv.org/abs/2402.03561) | AAAI2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2402_03561.bib) |
@@ -241,11 +244,9 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2025-09-30 | [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://arxiv.org/abs/2509.24387) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2509_24387.bib) |
 | 2025-09-08 | [Test-Time Adaptation for Online Vision-Language Navigation with Feedback-Based Reinforcement Learning](https://proceedings.mlr.press/v267/kim25ad.html) | ICML2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/2025-test-time-adaptation-for-online-vision-language-navigat.bib) |
 | 2025-08-07 | [Safety of Embodied Navigation: A Survey](https://arxiv.org/abs/2508.05855) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2508_05855.bib) |
-| 2025-07-07 | [NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving](https://arxiv.org/abs/2507.05227) | ACMMM2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2507_05227.bib) |
 | 2025-06-20 | [VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](https://arxiv.org/abs/2506.16703) | IROS2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2506_16703.bib) |
 | 2025-05-28 | [Anomalies by Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation](https://arxiv.org/abs/2505.22805) | ICRA2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2505_22805.bib) |
 | 2025-02-23 | [Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications](https://arxiv.org/abs/2502.16402) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2502_16402.bib) |
-| 2025-01-27 | [Robust Mobile Robot Path Planning via LLM-Based Dynamic Waypoint Generation](https://arxiv.org/abs/2501.15901) | ESWA2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2501_15901.bib) |
 | 2024-07-31 | [Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments](https://arxiv.org/abs/2407.21452) | ACMMM2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2407_21452.bib) |
 | 2024-03-15 | [Mind the Error! Detection and Localization of Instruction Errors in Vision-and-Language Navigation](https://arxiv.org/abs/2403.10700) | IROS2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_10700.bib) |
 | 2024-03-09 | [Towards Deviation-Robust Agent Navigation via Perturbation-Aware Contrastive Learning](https://arxiv.org/abs/2403.05770) | TPAMI2023 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_05770.bib) |
@@ -253,7 +254,6 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2023-11-06 | [Safe-VLN: Collision Avoidance for Vision-and-Language Navigation of Autonomous Robots Operating in Continuous Environments](https://arxiv.org/abs/2311.02817) | RA-L2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2311_02817.bib) |
 | 2022-11-27 | [Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning](https://arxiv.org/abs/2211.14769) | NAACL2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2211_14769.bib) |
 | 2022-06-12 | [Consistent Attack: Universal Adversarial Perturbation on Embodied Vision Navigation](https://arxiv.org/abs/2206.05751) | PRL2023 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2206_05751.bib) |
-| 2022-04-18 | [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://arxiv.org/abs/2204.08647) | RSS2022 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2204_08647.bib) |
 
 ## 🔮 Understanding the Future
 *World models, diffusion models, future prediction, and imagination-based navigation*
@@ -262,7 +262,6 @@ This section still contains error recovery and robustness papers, but the reposi
 |------|-------------|-------|-----------|
 | 2026-03-18 | [P$^{3}$Nav: End-to-End Perception, Prediction and Planning for Vision-and-Language Navigation](https://arxiv.org/abs/2603.17459) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17459.bib) |
 | 2026-03-14 | [ImagiNav: Scalable Embodied Navigation via Generative Visual Prediction and Inverse Dynamics](https://arxiv.org/abs/2603.13833) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_13833.bib) |
-| 2026-03-10 | [ImpedanceDiffusion: Diffusion-Based Global Path Planning for UAV Swarm Navigation with Generative Impedance Control](https://arxiv.org/abs/2603.09031) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_09031.bib) |
 | 2026-02-06 | [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](https://arxiv.org/abs/2602.05827) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2602_05827.bib) |
 | 2026-01-30 | [MapDream: Task-Driven Map Learning for Vision-Language Navigation](https://arxiv.org/abs/2602.00222) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2602_00222.bib) |
 | 2026-01-01 | [ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/abs/2512.17435) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2512_17435.bib) |
@@ -298,6 +297,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Venue | Resources |
 |------|-------------|-------|-----------|
+| 2026-03-21 | [Does Peer Observation Help? Vision-Sharing Collaboration for Vision-Language Navigation](https://arxiv.org/abs/2603.20804) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_20804.bib) |
 | 2026-03-16 | [HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System](https://arxiv.org/abs/2603.14807) | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/lvkailin0118/HiMemVLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_14807.bib) |
 | 2026-03-15 | [All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation](https://arxiv.org/abs/2603.14276) | ICLR2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_14276.bib) |
 | 2026-03-09 | [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://arxiv.org/abs/2603.07997) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_07997.bib) |
@@ -347,6 +347,8 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Venue | Resources |
 |------|-------------|-------|-----------|
+| 2026-03-24 | [CATNAV: Cached Vision-Language Traversability for Efficient Zero-Shot Robot Navigation](https://arxiv.org/abs/2603.22800) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_22800.bib) |
+| 2026-03-21 | [E-SocialNav: Efficient Socially Compliant Navigation with Language Models](https://arxiv.org/abs/2603.20664) | ICASSP2026 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/Dr-LingXiao/ESocialNav) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_20664.bib) |
 | 2026-03-18 | [OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms](https://arxiv.org/abs/2603.17351) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17351.bib) |
 | 2026-03-18 | [Interpreting Context-Aware Human Preferences for Multi-Objective Robot Navigation](https://arxiv.org/abs/2603.17510) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17510.bib) |
 | 2026-03-16 | [EmergeNav: Structured Embodied Inference for Zero-Shot Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/abs/2603.16947) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_16947.bib) |
@@ -378,7 +380,6 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2025-10-27 | [HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment](https://arxiv.org/abs/2510.22917) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2510_22917.bib) |
 | 2025-10-22 | [LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/abs/2510.19655) | ICRA2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2510_19655.bib) |
 | 2025-10-18 | [DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](https://arxiv.org/abs/2510.16518) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2510_16518.bib) |
-| 2025-10-09 | [An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation](https://arxiv.org/abs/2510.07825) | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/usail-hkust/CityNav) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2510_07825.bib) |
 | 2025-09-26 | [See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](https://arxiv.org/abs/2509.22653) | CoRL2025 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/Hu-chih-yao/see-point-fly) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2509_22653.bib) |
 | 2025-09-25 | [Decision-Driven Semantic Object Exploration for Legged Robots via Confidence-Calibrated Perception and Topological Subgoal Selection](https://arxiv.org/abs/2509.20739) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2509_20739.bib) |
 | 2025-09-23 | [VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation](https://arxiv.org/abs/2509.18592) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2509_18592.bib) |
@@ -396,7 +397,6 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2025-06-09 | [Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation](https://arxiv.org/abs/2506.07338) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2506_07338.bib) |
 | 2025-06-07 | [Multimodal Spatial Language Maps for Robot Navigation and Manipulation](https://arxiv.org/abs/2506.06862) | IJRR2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2506_06862.bib) |
 | 2025-06-04 | [LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward](https://arxiv.org/abs/2506.04070) | AAAI2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2506_04070.bib) |
-| 2025-05-27 | [FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation](https://arxiv.org/abs/2505.20783) | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/NTU-ICG/FM-Planner) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2505_20783.bib) |
 | 2025-05-14 | [NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/abs/2505.08712) | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/InternRobotics/NavDP) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2505_08712.bib) |
 | 2025-03-12 | [ViLAM: Distilling Vision-Language Reasoning into Attention Maps for Social Robot Navigation](https://arxiv.org/abs/2503.09820) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2503_09820.bib) |
 | 2025-03-12 | [LLM-Guided Indoor Navigation with Multimodal Map Understanding](https://arxiv.org/abs/2503.11702) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2503_11702.bib) |
@@ -413,7 +413,6 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2024-09-27 | [Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs](https://arxiv.org/abs/2409.18794) | ICRA2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2409_18794.bib) |
 | 2024-09-26 | [GSON: A Group-based Social Navigation Framework with Large Multimodal Model](https://arxiv.org/abs/2409.18084) | RA-L2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2409_18084.bib) |
 | 2024-09-24 | [BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes](https://arxiv.org/abs/2409.16484) | ICRA2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2409_16484.bib) |
-| 2024-09-20 | [Hey Robot! Personalizing Robot Navigation through Model Predictive Control with a Large Language Model](https://arxiv.org/abs/2409.13393) | ICRA 2025 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/dmartinezbaselga/hey-robot) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2409_13393.bib) |
 | 2024-09-17 | [Multi-Floor Zero-Shot Object Navigation Policy](https://arxiv.org/abs/2409.10906) | ICRA2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2409_10906.bib) |
 | 2024-09-08 | [Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models](https://arxiv.org/abs/2409.04965) | IROS2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2409_04965.bib) |
 | 2024-08-08 | [Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions](https://arxiv.org/abs/2408.04168) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2408_04168.bib) |
@@ -430,7 +429,6 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2024-03-21 | [Volumetric Environment Representation for Vision-Language Navigation](https://arxiv.org/abs/2403.14158) | CVPR2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_14158.bib) |
 | 2024-03-21 | [Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation](https://arxiv.org/abs/2403.14163) | Advanced Engineering Informatics 2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_14163.bib) |
 | 2024-03-15 | [Advancing Object Goal Navigation Through LLM-enhanced Object Affinities Transfer](https://arxiv.org/abs/2403.09971) | IROS2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_09971.bib) |
-| 2024-02-22 | [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434) | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2302_11434.bib) |
 | 2023-12-06 | [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://arxiv.org/abs/2312.03275) | ICRA2024 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/bdaiinstitute/vlfm) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2312_03275.bib) |
 | 2023-10-11 | [Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models](https://arxiv.org/abs/2310.07937) | AAAI 2024 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/GengzeZhou/NavGPT) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2310_07937.bib) |
 | 2023-09-19 | [Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill](https://arxiv.org/abs/2309.10309) | ICRA 2024 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/wzcai99/Pixel-Navigator) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2309_10309.bib) |
@@ -442,10 +440,8 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2021-10-14 | [Self-Supervised Domain Adaptation for Visual Navigation with Global Map Consistency](https://arxiv.org/abs/2110.07184) | WACV2022 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2110_07184.bib) |
 | 2021-07-01 | [Learning a State Representation and Navigation in Cluttered and Dynamic Environments](https://arxiv.org/abs/2103.04351) | RA-L2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2103_04351.bib) |
 | 2020-12-10 | [Visual Perception Generalization for Vision-and-Language Navigation via Meta-Learning](https://arxiv.org/abs/2012.05446) | TNNLS2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2012_05446.bib) |
-| 2020-11-16 | [Conditional Driving from Natural Language Instructions](https://arxiv.org/abs/1910.07615) | CoRL2020 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_1910_07615.bib) |
 | 2020-11-07 | [Sim-to-Real Transfer for Vision-and-Language Navigation](https://arxiv.org/abs/2011.03807) | CoRL2020 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2011_03807.bib) |
 | 2020-10-19 | [Language and Visual Entity Relationship Graph for Agent Navigation](https://arxiv.org/abs/2010.09304) | NeurIPS2021 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/YicongHong/Entity-Graph-VLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2010_09304.bib) |
-| 2019-10-07 | [Talk to the Vehicle: Language Conditioned Autonomous Navigation of Self Driving Cars](https://ieeexplore.ieee.org/document/8967929) | IROS2019 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/ieee_8967929.bib) |
 
 ---
 
@@ -453,10 +449,10 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Category | Count |
 |----------|-------|
-| Foundation & Benchmark | 77 |
-| Understanding the Decision | 86 |
-| Understanding the Error | 25 |
-| Understanding the Future | 32 |
-| Understanding the History | 43 |
-| Understanding the Reality | 99 |
-| **Total** | **362** |
+| Foundation & Benchmark | 76 |
+| Understanding the Decision | 88 |
+| Understanding the Error | 22 |
+| Understanding the Future | 31 |
+| Understanding the History | 44 |
+| Understanding the Reality | 95 |
+| **Total** | **356** |
