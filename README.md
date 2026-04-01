@@ -16,9 +16,10 @@ A curated list of **Vision-Language Navigation (VLN)** research papers focusing 
 </p>
 
 ## 📖 News
-**[2026/03/16]** Initial release.
 
 **[2026/03/20]** Add Safety & Social Navigation Subtopic.
+
+**[2026/03/16]** Initial release.
 
 
 ## 🌟 Overview
@@ -53,6 +54,7 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-03-30 | [CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence](https://arxiv.org/abs/2603.28032) | `uav-nav` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/louiszengCN/CarlaAir) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_28032.bib) |
 | 2026-03-20 | [HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks](https://arxiv.org/abs/2603.19822) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_19822.bib) |
 | 2026-03-19 | [NavTrust: Benchmarking Trustworthiness for Embodied Navigation](https://arxiv.org/abs/2603.19229) | `instruction-based` | ICLR2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_19229.bib) |
 | 2026-03-18 | [FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation](https://arxiv.org/abs/2603.17437) | `instruction-based` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/Chenkehan21/FloorPlan-VLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17437.bib) |
@@ -96,7 +98,6 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2022-06-23 | [1st Place Solutions for RxR-Habitat Vision-and-Language Navigation Competition (CVPR 2022)](https://arxiv.org/abs/2206.11610) | `instruction-based` | CVPR2022 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/google-research-datasets/RxR) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2206_11610.bib) |
 | 2022-03-20 | [CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://arxiv.org/abs/2203.10421) | `obj-goal` | CVPR2023 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/real-stanford/cow) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2203_10421.bib) |
 | 2022-02-04 | [A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility](https://arxiv.org/abs/2202.02312) | `instruction-based` | LNCS2022 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2202_02312.bib) |
-| 2021-10-12 | [Rethinking the Spatial Route Prior in Vision-and-Language Navigation](https://arxiv.org/abs/2110.05728) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2110_05728.bib) |
 | 2021-09-16 | [Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI](https://arxiv.org/abs/2109.08238) | `instruction-based` | NeurIPS2021 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/facebookresearch/habitat-matterport3d-dataset) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2109_08238.bib) |
 | 2021-08-26 | [Vision-Language Navigation: A Survey and Taxonomy](https://arxiv.org/abs/2108.11544) | `instruction-based` | NCA2023 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2108_11544.bib) |
 | 2021-08-05 | [Communicative Learning with Natural Gestures for Embodied Navigation Agents with Human-in-the-Scene](https://arxiv.org/abs/2108.02846) | `instruction-based` | IROS2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2108_02846.bib) |
@@ -108,7 +109,6 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2021-03-30 | [Diagnosing Vision-and-Language Navigation: What Really Matters](https://arxiv.org/abs/2103.16561) | `instruction-based` | NAACL2022 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2103_16561.bib) |
 | 2021-03-01 | [CrossMap Transformer: A Crossmodal Masked Path Transformer Using Double Back-Translation for Vision-and-Language Navigation](https://arxiv.org/abs/2103.00852) | `instruction-based` | RA-L2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2103_00852.bib) |
 | 2021-01-19 | [A modular vision language navigation and manipulation framework for long horizon compositional tasks in indoor environment](https://arxiv.org/abs/2101.07891) | `instruction-based` | Frontiers Robot AI 2022 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2101_07891.bib) |
-| 2020-12-09 | [Topological Planning with Transformers for Vision-and-Language Navigation](https://arxiv.org/abs/2012.05292) | `instruction-based` | CVPR2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2012_05292.bib) |
 | 2020-11-15 | [ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments](https://arxiv.org/abs/2011.07660) | `instruction-based` | Findings-EMNLP2020 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/hyounghk/ArraMon) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2011_07660.bib) |
 | 2020-10-15 | [Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding](https://arxiv.org/abs/2010.07954) | `instruction-based` | EMNLP2020 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/google-research-datasets/RxR) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2010_07954.bib) |
 | 2020-07-14 | [Explore and Explain: Self-supervised Navigation and Recounting](https://arxiv.org/abs/2007.07268) | `instruction-based` | ICPR2020 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2007_07268.bib) |
@@ -137,6 +137,11 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-03-30 | [DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation](https://arxiv.org/abs/2603.28691) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_28691.bib) |
+| 2026-03-29 | [Structured Observation Language for Efficient and Generalizable Vision-Language Navigation](https://arxiv.org/abs/2603.27577) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_27577.bib) |
+| 2026-03-27 | [Beyond textual knowledge: Leveraging multimodal knowledge bases for enhancing vision-and-language navigation](https://doi.org/10.1016/j.ipm.2026.104766) | `instruction-based` | Information Processing & Management 2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/doi_10_1016_j_ipm_2026_104766.bib) |
+| 2026-03-26 | [Integrating Deep RL and Bayesian Inference for ObjectNav in Mobile Robotics](https://arxiv.org/abs/2603.25366) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_25366.bib) |
+| 2026-03-26 | [IntentReact: Guiding Reactive Object-Centric Navigation via Topological Intent](https://arxiv.org/abs/2603.25382) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_25382.bib) |
 | 2026-03-22 | [SpatialFly: Geometry-Guided Representation Alignment for UAV Vision-and-Language Navigation in Urban Environments](https://arxiv.org/abs/2603.21046) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_21046.bib) |
 | 2026-03-22 | [DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation](https://arxiv.org/abs/2603.21269) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_21269.bib) |
 | 2026-03-19 | [Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](https://arxiv.org/abs/2603.19166) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_19166.bib) |
@@ -215,10 +220,12 @@ We warmly welcome contributions via **pull request**. Please follow the instruct
 | 2021-12-08 | [Contrastive Instruction-Trajectory Learning for Vision-Language Navigation](https://arxiv.org/abs/2112.04138) | `instruction-based` | AAAI2022 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2112_04138.bib) |
 | 2021-11-14 | [Curriculum Learning for Vision-and-Language Navigation](https://arxiv.org/abs/2111.07228) | `instruction-based` | NeurIPS2021 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/IMNearth/Curriculum-Learning-For-VLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2111_07228.bib) |
 | 2021-10-27 | [SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2110.14143) | `instruction-based` | NeurIPS2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2110_14143.bib) |
+| 2021-10-12 | [Rethinking the Spatial Route Prior in Vision-and-Language Navigation](https://arxiv.org/abs/2110.05728) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2110_05728.bib) |
 | 2021-05-07 | [SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation](https://arxiv.org/abs/2012.04512) | `instruction-based` | ICRA2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2012_04512.bib) |
 | 2021-04-21 | [Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation](https://arxiv.org/abs/2104.10674) | `instruction-based` | ICRA2021 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/GT-RIPL/robo-vln) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2104_10674.bib) |
 | 2020-11-26 | [A Recurrent Vision-and-Language BERT for Navigation](https://arxiv.org/abs/2011.13922) | `instruction-based` | CVPR2021 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/YicongHong/Recurrent-VLN-BERT) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2011_13922.bib) |
 | 2020-11-14 | [Few-shot Object Grounding and Mapping for Natural Language Robot Instruction Following](https://arxiv.org/abs/2011.07384) | `instruction-based` | CoRL2020 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2011_07384.bib) |
+| 2020-12-09 | [Topological Planning with Transformers for Vision-and-Language Navigation](https://arxiv.org/abs/2012.05292) | `instruction-based` | CVPR2021 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2012_05292.bib) |
 | 2020-09-16 | [Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule](https://arxiv.org/abs/2009.07783) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2009_07783.bib) |
 | 2020-09-07 | [Integrating Egocentric Localization for More Realistic Point-Goal Navigation Agents](https://arxiv.org/abs/2009.03231) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2009_03231.bib) |
 | 2020-07-15 | [Active Visual Information Gathering for Vision-Language Navigation](https://arxiv.org/abs/2007.08037) | `instruction-based` | LNCS2020 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/HanqingWangAI/Active_VLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2007_08037.bib) |
@@ -250,7 +257,6 @@ This section still contains error recovery and robustness papers, but the reposi
 | 2025-08-07 | [Safety of Embodied Navigation: A Survey](https://arxiv.org/abs/2508.05855) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2508_05855.bib) |
 | 2025-06-20 | [VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](https://arxiv.org/abs/2506.16703) | `instruction-based` | IROS2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2506_16703.bib) |
 | 2025-05-28 | [Anomalies by Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation](https://arxiv.org/abs/2505.22805) | `instruction-based` | ICRA2025 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2505_22805.bib) |
-| 2025-02-23 | [Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications](https://arxiv.org/abs/2502.16402) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2502_16402.bib) |
 | 2024-07-31 | [Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments](https://arxiv.org/abs/2407.21452) | `instruction-based` | ACMMM2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2407_21452.bib) |
 | 2024-03-15 | [Mind the Error! Detection and Localization of Instruction Errors in Vision-and-Language Navigation](https://arxiv.org/abs/2403.10700) | `instruction-based` | IROS2024 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_10700.bib) |
 | 2024-03-09 | [Towards Deviation-Robust Agent Navigation via Perturbation-Aware Contrastive Learning](https://arxiv.org/abs/2403.05770) | `instruction-based` | TPAMI2023 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2403_05770.bib) |
@@ -264,6 +270,8 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-03-31 | [LatentPilot: Scene-Aware Vision-and-Language Navigation by Dreaming Ahead with Latent Visual Reasoning](https://arxiv.org/abs/2603.29165) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_29165.bib) |
+| 2026-03-27 | [SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation](https://arxiv.org/abs/2603.26837) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_26837.bib) |
 | 2026-03-18 | [P$^{3}$Nav: End-to-End Perception, Prediction and Planning for Vision-and-Language Navigation](https://arxiv.org/abs/2603.17459) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17459.bib) |
 | 2026-03-14 | [ImagiNav: Scalable Embodied Navigation via Generative Visual Prediction and Inverse Dynamics](https://arxiv.org/abs/2603.13833) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_13833.bib) |
 | 2026-02-06 | [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](https://arxiv.org/abs/2602.05827) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2602_05827.bib) |
@@ -459,10 +467,10 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Category | Count |
 |----------|-------|
-| Foundation & Benchmark | 78 |
-| Understanding the Decision | 91 |
-| Understanding the Error | 22 |
-| Understanding the Future | 31 |
+| Foundation & Benchmark | 77 |
+| Understanding the Decision | 98 |
+| Understanding the Error | 21 |
+| Understanding the Future | 33 |
 | Understanding the History | 48 |
 | Understanding the Reality | 97 |
-| **Total** | **367** |
+| **Total** | **374** |
