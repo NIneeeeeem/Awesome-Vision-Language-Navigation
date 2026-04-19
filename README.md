@@ -54,6 +54,7 @@ Use `foundation` as the fallback task label for general benchmarks, simulators, 
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-04-15 | [Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap](https://arxiv.org/abs/2604.13654) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_13654.bib) |
 | 2026-04-14 | [Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting](https://arxiv.org/abs/2604.12626) | `foundation` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_12626.bib) |
 | 2026-04-09 | [How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace](https://arxiv.org/abs/2604.07973) | `uav-nav` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/serenditipy-AC/Embodied-Navigation-Bench) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_07973.bib) |
 | 2026-04-09 | [MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models](https://arxiv.org/abs/2604.07991) | `uav-nav` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/Thelegendzz/MotionScape) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_07991.bib) |
@@ -266,6 +267,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-04-14 | [VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response](https://arxiv.org/abs/2604.12831) | `obj-goal` | INFOCOM EIN Workshop 2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_12831.bib) |
 | 2026-03-18 | [AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation](https://arxiv.org/abs/2603.17712) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17712.bib) |
 | 2026-03-16 | [Trajectory-Diversity-Driven Robust Vision-and-Language Navigation](https://arxiv.org/abs/2603.15370) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_15370.bib) |
 | 2026-03-13 | [HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation](https://arxiv.org/abs/2603.12696) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_12696.bib) |
