@@ -54,6 +54,8 @@ Use `foundation` as the fallback task label for general benchmarks, simulators, 
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-03 | [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](https://arxiv.org/abs/2605.01736) | `foundation` | CVPR2026 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/sx-zhang/GLMap) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_01736.bib) |
+| 2026-05-01 | [MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation](https://arxiv.org/abs/2605.00397) | `foundation` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_00397.bib) |
 | 2026-04-15 | [Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap](https://arxiv.org/abs/2604.13654) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_13654.bib) |
 | 2026-04-14 | [Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting](https://arxiv.org/abs/2604.12626) | `foundation` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_12626.bib) |
 | 2026-04-09 | [How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace](https://arxiv.org/abs/2604.07973) | `uav-nav` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/serenditipy-AC/Embodied-Navigation-Bench) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_07973.bib) |
@@ -148,9 +150,15 @@ Use `foundation` as the fallback task label for general benchmarks, simulators, 
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-03 | [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](https://arxiv.org/abs/2605.01700) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_01700.bib) |
+| 2026-04-30 | [SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation](https://arxiv.org/abs/2604.27620) | `instruction-based` | ACMMM2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_27620.bib) |
 | 2026-04-20 | [Instruction-as-State: Environment-Guided and State-Conditioned Semantic Understanding for Embodied Navigation](https://arxiv.org/abs/2604.18223) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_18223.bib) |
 | 2026-04-17 | [FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation](https://arxiv.org/abs/2604.16298) | `uav-nav` | CVPR2026 Findings | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_16298.bib) |
+| 2026-04-19 | [Think before Go: Hierarchical Reasoning for Image-goal Navigation](https://arxiv.org/abs/2604.17407) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_17407.bib) |
+| 2026-04-18 | [Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents](https://arxiv.org/abs/2604.17019) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_17019.bib) |
+| 2026-04-18 | [Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification](https://arxiv.org/abs/2604.16993) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_16993.bib) |
 | 2026-04-14 | [DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation](https://arxiv.org/abs/2604.12486) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_12486.bib) |
+| 2026-04-12 | [VLN-NF: Feasibility-Aware Vision-and-Language Navigation with False-Premise Instructions](https://arxiv.org/abs/2604.10533) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_10533.bib) |
 | 2026-04-09 | [HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation](https://arxiv.org/abs/2604.08232) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_08232.bib) |
 | 2026-04-07 | [AnyImageNav: Any-View Geometry for Precise Last-Meter Image-Goal Navigation](https://arxiv.org/abs/2604.05351) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_05351.bib) |
 | 2026-04-03 | [STRNet: Visual Navigation with Spatio-Temporal Representation through Dynamic Graph Aggregation](https://arxiv.org/abs/2604.02829) | `instruction-based` | CVPR2026 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/hren20/STRNet) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_02829.bib) |
@@ -269,6 +277,8 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-05 | [From Language to Logic: A Theoretical Architecture for VLM-Grounded Safe Navigation](https://arxiv.org/abs/2605.04327) | `instruction-based` | ICUAS2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_04327.bib) |
+| 2026-04-28 | [Where Did It Go Wrong? Capability-Oriented Failure Attribution for Vision-and-Language Navigation Agents](https://arxiv.org/abs/2604.25161) | `instruction-based` | ACL2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_25161.bib) |
 | 2026-04-19 | [Dual-Anchoring: Addressing State Drift in Vision-Language Navigation](https://arxiv.org/abs/2604.17473) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_17473.bib) |
 | 2026-04-14 | [VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response](https://arxiv.org/abs/2604.12831) | `obj-goal` | INFOCOM EIN Workshop 2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_12831.bib) |
 | 2026-03-18 | [AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation](https://arxiv.org/abs/2603.17712) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_17712.bib) |
@@ -339,7 +349,10 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-04 | [A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory](https://arxiv.org/abs/2605.02525) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_02525.bib) |
+| 2026-04-21 | [The Essence of Balance for Self-Improving Agents in Vision-and-Language Navigation](https://arxiv.org/abs/2604.19064) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_19064.bib) |
 | 2026-04-14 | [OVAL: Open-Vocabulary Augmented Memory Model for Lifelong Object Goal Navigation](https://arxiv.org/abs/2604.12872) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_12872.bib) |
+| 2026-04-05 | [Hypothesis Graph Refinement: Hypothesis-Driven Exploration with Cascade Error Correction for Embodied Navigation](https://arxiv.org/abs/2604.04108) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_04108.bib) |
 | 2026-03-21 | [Does Peer Observation Help? Vision-Sharing Collaboration for Vision-Language Navigation](https://arxiv.org/abs/2603.20804) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_20804.bib) |
 | 2026-03-16 | [HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System](https://arxiv.org/abs/2603.14807) | `instruction-based` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/lvkailin0118/HiMemVLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_14807.bib) |
 | 2026-03-15 | [All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation](https://arxiv.org/abs/2603.14276) | `instruction-based` | ICLR2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_14276.bib) |
@@ -395,6 +408,8 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-04-27 | [FreqCache: Accelerating Embodied VLN Models with Adaptive Frequency-Guided Token Caching](https://arxiv.org/abs/2604.24391) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_24391.bib) |
+| 2026-04-26 | [AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation](https://arxiv.org/abs/2604.24086) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_24086.bib) |
 | 2026-04-23 | [A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration](https://arxiv.org/abs/2604.21363) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_21363.bib) |
 | 2026-04-21 | [LiveVLN: Breaking the Stop-and-Go Loop in Vision-Language Navigation](https://arxiv.org/abs/2604.19536) | `instruction-based` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/NIneeeeeem/LiveVLN) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_19536.bib) |
 | 2026-04-03 | [FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation](https://arxiv.org/abs/2604.03139) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_03139.bib) |
@@ -509,10 +524,10 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Category | Count |
 |----------|-------|
-| Foundation & Benchmark | 87 |
-| Understanding the Decision | 111 |
-| Understanding the Error | 21 |
+| Foundation & Benchmark | 90 |
+| Understanding the Decision | 119 |
+| Understanding the Error | 25 |
 | Understanding the Future | 35 |
-| Understanding the History | 50 |
-| Understanding the Reality | 105 |
-| **Total** | **409** |
+| Understanding the History | 53 |
+| Understanding the Reality | 109 |
+| **Total** | **431** |
