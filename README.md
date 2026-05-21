@@ -54,6 +54,7 @@ Use `foundation` as the fallback task label for general benchmarks, simulators, 
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-14 | [Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN](https://arxiv.org/abs/2605.14801) | `foundation` | ICRA2026 Workshop | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_14801.bib) |
 | 2026-05-03 | [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](https://arxiv.org/abs/2605.01736) | `foundation` | CVPR2026 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/sx-zhang/GLMap) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_01736.bib) |
 | 2026-05-01 | [MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation](https://arxiv.org/abs/2605.00397) | `foundation` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_00397.bib) |
 | 2026-04-15 | [Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap](https://arxiv.org/abs/2604.13654) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_13654.bib) |
@@ -150,6 +151,10 @@ Use `foundation` as the fallback task label for general benchmarks, simulators, 
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-19 | [CLUE: Adaptively Prioritized Contextual Cues by Leveraging a Unified Semantic Map for Effective Zero-Shot Object-Goal Navigation](https://arxiv.org/abs/2605.19206) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19206.bib) |
+| 2026-05-19 | [Beyond Waypoints: Dual-Heatmap Grounding for Cross-Embodiment Semantic Navigation](https://arxiv.org/abs/2605.19420) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19420.bib) |
+| 2026-05-17 | [SEDualVLN: A Spatially-Enhanced Dual-System for Vision-Language Navigation](https://arxiv.org/abs/2605.17249) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_17249.bib) |
+| 2026-05-16 | [MORN: Metacognitive Object-Goal Regulation for Resource-Rational Long-Horizon Navigation](https://arxiv.org/abs/2605.16932) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_16932.bib) |
 | 2026-05-03 | [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](https://arxiv.org/abs/2605.01700) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_01700.bib) |
 | 2026-04-30 | [SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation](https://arxiv.org/abs/2604.27620) | `instruction-based` | ACMMM2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_27620.bib) |
 | 2026-04-20 | [Instruction-as-State: Environment-Guided and State-Conditioned Semantic Understanding for Embodied Navigation](https://arxiv.org/abs/2604.18223) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_18223.bib) |
@@ -349,6 +354,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-19 | [MCNav: Memory-Aware Dynamic Cognitive Map for Zero-shot Goal-oriented Navigation](https://arxiv.org/abs/2605.19594) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19594.bib) |
 | 2026-05-04 | [A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory](https://arxiv.org/abs/2605.02525) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_02525.bib) |
 | 2026-04-21 | [The Essence of Balance for Self-Improving Agents in Vision-and-Language Navigation](https://arxiv.org/abs/2604.19064) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_19064.bib) |
 | 2026-04-14 | [OVAL: Open-Vocabulary Augmented Memory Model for Lifelong Object Goal Navigation](https://arxiv.org/abs/2604.12872) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_12872.bib) |
@@ -408,6 +414,9 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-19 | [D-CLING: Prior-Preserving Depth-Conditioned Fine-Tuning for Navigation Foundation Models](https://arxiv.org/abs/2605.19690) | `foundation` | ICRA2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19690.bib) |
+| 2026-05-16 | [NORM-Nav: Zero-Shot Mobile Robot Navigation with Natural Language Behavioral Constraints](https://arxiv.org/abs/2605.16979) | `social-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_16979.bib) |
+| 2026-05-15 | [WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation](https://arxiv.org/abs/2605.15964) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_15964.bib) |
 | 2026-04-27 | [FreqCache: Accelerating Embodied VLN Models with Adaptive Frequency-Guided Token Caching](https://arxiv.org/abs/2604.24391) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_24391.bib) |
 | 2026-04-26 | [AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation](https://arxiv.org/abs/2604.24086) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_24086.bib) |
 | 2026-04-23 | [A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration](https://arxiv.org/abs/2604.21363) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_21363.bib) |
@@ -524,10 +533,10 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Category | Count |
 |----------|-------|
-| Foundation & Benchmark | 90 |
-| Understanding the Decision | 119 |
+| Foundation & Benchmark | 91 |
+| Understanding the Decision | 123 |
 | Understanding the Error | 25 |
 | Understanding the Future | 35 |
-| Understanding the History | 53 |
-| Understanding the Reality | 109 |
-| **Total** | **431** |
+| Understanding the History | 54 |
+| Understanding the Reality | 112 |
+| **Total** | **440** |
