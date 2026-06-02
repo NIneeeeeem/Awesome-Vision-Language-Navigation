@@ -35,7 +35,10 @@ because these are also part of the broader safety story for embodied navigation.
 3. Finish with broader safety, robustness, and attack papers to cover the full safety landscape.
 
 ## Recent Check
-- Re-checked on `2026-04-15` against the latest safety-related papers already merged into `README.md`, with a targeted pass over recent `VLN`, `AVLN`, and embodied-navigation entries.
+- Re-checked on `2026-06-02` against the latest safety-related papers already merged into `README.md`, with a targeted pass over recent `VLN`, `AVLN`, and embodied-navigation entries.
+- This pass adds [Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration](https://arxiv.org/abs/2605.31196) (`2026-05-29`) because TouchSafeBench explicitly covers collision grounding for social navigation and human-robot collaboration.
+- The strict recent-week VLN pass also found [Uni-LaViRA](https://arxiv.org/abs/2605.27582) (`2026-05-26`) and [TARIC](https://arxiv.org/abs/2605.31121) (`2026-05-29`), but they are tracked in the main README rather than this safety-focused reading path.
+- [Uncertainty-Aware Gaussian Map for Vision-Language Navigation](https://arxiv.org/abs/2605.26503), published on `2026-05-26`, is still treated as robustness-adjacent VLN rather than direct human safety or social-navigation work, so it remains outside this themed page.
 - This pass adds two recent missing papers to this themed page: [AURA: Multimodal Shared Autonomy for Real-World Urban Navigation](https://arxiv.org/abs/2604.01659) (`2026-04-02`) and [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/abs/2603.10682) (`2026-03-11`).
 - It also backfills [Safety of Embodied Navigation: A Survey](https://arxiv.org/abs/2508.05855) because it directly frames attacks, robustness, and evaluation concerns for safe embodied navigation.
 - [DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation](https://arxiv.org/abs/2603.21269), published on `2026-03-22`, is still treated as adjacent robustness work rather than a direct safety or social-navigation paper, so it remains outside this themed page.
@@ -45,6 +48,7 @@ because these are also part of the broader safety story for embodied navigation.
 
 | Date | Paper Title | Main README Category | Venue | Resources |
 |------|-------------|----------------------|-------|-----------|
+| 2026-05-29 | [Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration](https://arxiv.org/abs/2605.31196) | Foundation & Benchmark | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31196.bib) |
 | 2025-12-28 | [MUSON: A Reasoning-oriented Multimodal Dataset for Socially Compliant Navigation in Urban Environments](https://arxiv.org/abs/2512.22867) | Foundation & Benchmark | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2512_22867.bib) |
 | 2025-12-10 | [LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920) | Understanding the Reality | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2512_09920.bib) |
 | 2025-09-10 | [SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation](https://arxiv.org/abs/2509.08757) | Foundation & Benchmark | CoRL2025 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/michaelmunje/SocialNavSUB) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2509_08757.bib) |

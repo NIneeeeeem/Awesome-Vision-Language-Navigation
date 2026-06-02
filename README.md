@@ -17,6 +17,8 @@ A curated list of **Vision-Language Navigation (VLN)** research papers focusing 
 
 ## 📖 News
 
+**[2026/06/02]** Add weekly VLN paper update for `2026-05-26` to `2026-06-01`.
+
 **[2026/03/20]** Add Safety & Social Navigation Subtopic.
 
 **[2026/03/16]** Initial release.
@@ -54,6 +56,11 @@ Use `foundation` as the fallback task label for benchmarks, simulators, platform
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-06-01 | [PlatonicNav: Unveiling Semantic Correspondence in Navigation with Platonic Topological Maps](https://arxiv.org/abs/2606.01788) | `foundation` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/AIGeeksGroup/PlatonicNav) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_01788.bib) |
+| 2026-05-29 | [Can Aerial VLA Models Cooperate? Evaluating Closed-Loop Air-Ground Coordination with CARLA-Air](https://arxiv.org/abs/2605.31066) | `uav-nav` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/louiszengCN/CarlaAir) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31066.bib) |
+| 2026-05-29 | [Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration](https://arxiv.org/abs/2605.31196) | `social-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31196.bib) |
+| 2026-05-27 | [POINav: Benchmarking and Enhancing Final-Meters Arrival in Real-World Vision-Language Navigation](https://arxiv.org/abs/2605.28237) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_28237.bib) |
+| 2026-05-26 | [3D Gaussian Map with Open-Set Semantic Grouping for Vision-Language Navigation](https://arxiv.org/abs/2605.26500) | `foundation` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_26500.bib) |
 | 2026-05-14 | [Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN](https://arxiv.org/abs/2605.14801) | `foundation` | ICRA2026 Workshop | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_14801.bib) |
 | 2026-05-03 | [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](https://arxiv.org/abs/2605.01736) | `foundation` | CVPR2026 | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/sx-zhang/GLMap) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_01736.bib) |
 | 2026-05-01 | [MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation](https://arxiv.org/abs/2605.00397) | `foundation` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_00397.bib) |
@@ -143,6 +150,7 @@ Use `foundation` as the fallback task label for benchmarks, simulators, platform
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-06-01 | [Goal2Pixel: Grounding Goals to Pixels for Vision-Language Navigation](https://arxiv.org/abs/2606.01621) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_01621.bib) |
 | 2026-05-22 | [Autonomous Frontier-Based Exploration with VLM Guidance](https://arxiv.org/abs/2605.23165) | `instruction-based` | CVPR2026 3D-LLM/VLA Workshop | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_23165.bib) |
 | 2026-05-21 | [AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816) | `instruction-based` | CVPR2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_22816.bib) |
 | 2026-05-19 | [P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation](https://arxiv.org/abs/2605.19634) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19634.bib) |
@@ -278,6 +286,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-26 | [Uncertainty-Aware Gaussian Map for Vision-Language Navigation](https://arxiv.org/abs/2605.26503) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_26503.bib) |
 | 2026-05-22 | [Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation](https://arxiv.org/abs/2605.23257) | `instruction-based` | ICML2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_23257.bib) |
 | 2026-05-05 | [From Language to Logic: A Theoretical Architecture for VLM-Grounded Safe Navigation](https://arxiv.org/abs/2605.04327) | `instruction-based` | ICUAS2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_04327.bib) |
 | 2026-04-28 | [Where Did It Go Wrong? Capability-Oriented Failure Attribution for Vision-and-Language Navigation Agents](https://arxiv.org/abs/2604.25161) | `instruction-based` | ACL2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_25161.bib) |
@@ -410,6 +419,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-05-29 | [TARIC: Memory-Augmented Traversability-Aware Outdoor VLN under Interrupted Semantic Cues](https://arxiv.org/abs/2605.31121) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31121.bib) |
 | 2026-05-26 | [Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation](https://arxiv.org/abs/2605.27582) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_27582.bib) |
 | 2026-05-19 | [D-CLING: Prior-Preserving Depth-Conditioned Fine-Tuning for Navigation Foundation Models](https://arxiv.org/abs/2605.19690) | `foundation` | ICRA2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19690.bib) |
 | 2026-05-16 | [NORM-Nav: Zero-Shot Mobile Robot Navigation with Natural Language Behavioral Constraints](https://arxiv.org/abs/2605.16979) | `social-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_16979.bib) |
@@ -530,10 +540,10 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Category | Count |
 |----------|-------|
-| Foundation & Benchmark | 83 |
-| Understanding the Decision | 127 |
-| Understanding the Error | 26 |
+| Foundation & Benchmark | 88 |
+| Understanding the Decision | 128 |
+| Understanding the Error | 27 |
 | Understanding the Future | 35 |
 | Understanding the History | 53 |
-| Understanding the Reality | 113 |
-| **Total** | **437** |
+| Understanding the Reality | 114 |
+| **Total** | **445** |
