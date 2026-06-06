@@ -17,6 +17,8 @@ A curated list of **Vision-Language Navigation (VLN)** research papers focusing 
 
 ## 📖 News
 
+**[2026/06/05]** Add weekly VLN paper update for `2026-05-29` to `2026-06-05`.
+
 **[2026/06/02]** Add weekly VLN paper update for `2026-05-26` to `2026-06-01`.
 
 **[2026/03/20]** Add Safety & Social Navigation Subtopic.
@@ -56,6 +58,7 @@ Use `foundation` as the fallback task label for benchmarks, simulators, platform
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-06-02 | [GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation](https://arxiv.org/abs/2606.03682) | `foundation` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_03682.bib) |
 | 2026-06-01 | [PlatonicNav: Unveiling Semantic Correspondence in Navigation with Platonic Topological Maps](https://arxiv.org/abs/2606.01788) | `foundation` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/AIGeeksGroup/PlatonicNav) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_01788.bib) |
 | 2026-05-29 | [Can Aerial VLA Models Cooperate? Evaluating Closed-Loop Air-Ground Coordination with CARLA-Air](https://arxiv.org/abs/2605.31066) | `uav-nav` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/louiszengCN/CarlaAir) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31066.bib) |
 | 2026-05-29 | [Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration](https://arxiv.org/abs/2605.31196) | `social-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31196.bib) |
@@ -150,7 +153,9 @@ Use `foundation` as the fallback task label for benchmarks, simulators, platform
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-06-02 | [Ask When It Pays: Cost-Aware Open-Ended Interaction for Instance Goal Navigation](https://arxiv.org/abs/2606.03175) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_03175.bib) |
 | 2026-06-01 | [Goal2Pixel: Grounding Goals to Pixels for Vision-Language Navigation](https://arxiv.org/abs/2606.01621) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_01621.bib) |
+| 2026-05-29 | [The Sword, Shield, and Achilles' Heel: Characterizing the Linguistic Inductive Bias of Large Language Models for Spatial Reasoning in Navigation Planning](https://arxiv.org/abs/2605.31404) | `instruction-based` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/jonesdong150/LLM-Navigation-Inductive-Bias) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31404.bib) |
 | 2026-05-22 | [Autonomous Frontier-Based Exploration with VLM Guidance](https://arxiv.org/abs/2605.23165) | `instruction-based` | CVPR2026 3D-LLM/VLA Workshop | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_23165.bib) |
 | 2026-05-21 | [AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816) | `instruction-based` | CVPR2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_22816.bib) |
 | 2026-05-19 | [P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation](https://arxiv.org/abs/2605.19634) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19634.bib) |
@@ -319,6 +324,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-06-04 | [WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation](https://arxiv.org/abs/2606.06147) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_06147.bib) |
 | 2026-04-09 | [WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models](https://arxiv.org/abs/2604.07957) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_07957.bib) |
 | 2026-04-07 | [Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation](https://arxiv.org/abs/2604.05673) | `instruction-based` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/WuyangLuan/RSBM) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_05673.bib) |
 | 2026-03-31 | [LatentPilot: Scene-Aware Vision-and-Language Navigation by Dreaming Ahead with Latent Visual Reasoning](https://arxiv.org/abs/2603.29165) | `instruction-based` | - | [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/oceanhao/latentpilot) [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2603_29165.bib) |
@@ -360,6 +366,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-06-02 | [EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation](https://arxiv.org/abs/2606.03509) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_03509.bib) |
 | 2026-05-19 | [MCNav: Memory-Aware Dynamic Cognitive Map for Zero-shot Goal-oriented Navigation](https://arxiv.org/abs/2605.19594) | `obj-goal` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19594.bib) |
 | 2026-05-04 | [A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory](https://arxiv.org/abs/2605.02525) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_02525.bib) |
 | 2026-04-21 | [The Essence of Balance for Self-Improving Agents in Vision-and-Language Navigation](https://arxiv.org/abs/2604.19064) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2604_19064.bib) |
@@ -419,6 +426,7 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Date | Paper Title | Task | Venue | Resources |
 |------|-------------|------|-------|-----------|
+| 2026-06-02 | [AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation](https://arxiv.org/abs/2606.04111) | `uav-nav` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2606_04111.bib) |
 | 2026-05-29 | [TARIC: Memory-Augmented Traversability-Aware Outdoor VLN under Interrupted Semantic Cues](https://arxiv.org/abs/2605.31121) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_31121.bib) |
 | 2026-05-26 | [Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation](https://arxiv.org/abs/2605.27582) | `instruction-based` | - | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_27582.bib) |
 | 2026-05-19 | [D-CLING: Prior-Preserving Depth-Conditioned Fine-Tuning for Navigation Foundation Models](https://arxiv.org/abs/2605.19690) | `foundation` | ICRA2026 | [![Bib](https://img.shields.io/badge/Bib-8B5E3C?logo=bookstack&logoColor=white)](bib/entries/arxiv_2605_19690.bib) |
@@ -540,10 +548,10 @@ This section still contains error recovery and robustness papers, but the reposi
 
 | Category | Count |
 |----------|-------|
-| Foundation & Benchmark | 88 |
-| Understanding the Decision | 128 |
+| Foundation & Benchmark | 89 |
+| Understanding the Decision | 130 |
 | Understanding the Error | 27 |
-| Understanding the Future | 35 |
-| Understanding the History | 53 |
-| Understanding the Reality | 114 |
-| **Total** | **445** |
+| Understanding the Future | 36 |
+| Understanding the History | 54 |
+| Understanding the Reality | 115 |
+| **Total** | **451** |

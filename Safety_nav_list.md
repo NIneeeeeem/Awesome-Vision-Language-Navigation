@@ -35,7 +35,8 @@ because these are also part of the broader safety story for embodied navigation.
 3. Finish with broader safety, robustness, and attack papers to cover the full safety landscape.
 
 ## Recent Check
-- Re-checked on `2026-06-02` against the latest safety-related papers already merged into `README.md`, with a targeted pass over recent `VLN`, `AVLN`, and embodied-navigation entries.
+- Re-checked on `2026-06-05` against the latest safety-related papers already merged into `README.md`, with a targeted pass over recent `VLN`, `AVLN`, and embodied-navigation entries.
+- The `2026-06-02` to `2026-06-05` pass found new navigation papers for the main README, but no additional direct human-safety or social-navigation paper beyond TouchSafeBench for this themed page.
 - This pass adds [Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration](https://arxiv.org/abs/2605.31196) (`2026-05-29`) because TouchSafeBench explicitly covers collision grounding for social navigation and human-robot collaboration.
 - The strict recent-week VLN pass also found [Uni-LaViRA](https://arxiv.org/abs/2605.27582) (`2026-05-26`) and [TARIC](https://arxiv.org/abs/2605.31121) (`2026-05-29`), but they are tracked in the main README rather than this safety-focused reading path.
 - [Uncertainty-Aware Gaussian Map for Vision-Language Navigation](https://arxiv.org/abs/2605.26503), published on `2026-05-26`, is still treated as robustness-adjacent VLN rather than direct human safety or social-navigation work, so it remains outside this themed page.
